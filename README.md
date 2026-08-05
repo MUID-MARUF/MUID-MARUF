@@ -34,17 +34,50 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img 
-  src="https://github-readme-stats.vercel.app/api?username=MUID-MARUF&show_icons=true&rank_icon=github&hide_border=true"
-  />
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=MUID-MARUF&show_icons=true&hide_border=true&theme=github_dark"
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=MUID-MARUF&show_icons=true&hide_border=true&theme=default"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=MUID-MARUF&show_icons=true&hide_border=true"
+      height="180"
+    />
+  </picture>
 
-  <img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=MUID-MARUF&hide_border=true"
-  />
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://streak-stats.demolab.com?user=MUID-MARUF&theme=github-dark-blue&hide_border=true"
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://streak-stats.demolab.com?user=MUID-MARUF&theme=default&hide_border=true"
+    />
+    <img 
+      src="https://streak-stats.demolab.com?user=MUID-MARUF&hide_border=true"
+      height="180"
+    />
+  </picture>
 </p>
 
 <p align="center">
-  <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUID-MARUF&layout=compact&hide_border=true"
-  />
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MUID-MARUF&layout=compact&hide_border=true&theme=github_dark"
+    />
+    <source 
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MUID-MARUF&layout=compact&hide_border=true&theme=default"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUID-MARUF&layout=compact"
+      height="180"
+    />
+  </picture>
 </p>
